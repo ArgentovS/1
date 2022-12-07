@@ -1,0 +1,10 @@
+car_id;brand;model_car;color;is_reservd;state_number;parking_id;millage;time_creat
+51;Ford;Focus;Gray;True;d345ur48rus;3;51;18.02.2022
+52;Lexus;350x;White;False;s645rg48rus;6;52;18.02.2022
+53;Infinuty;m32;Black;False;e342hd77rus;54;53;18.02.2022
+54;Lada;Kalina;Green;True;w456hf48rus;55;54;18.02.2022
+55;Volga;3410;Blue;True;w347fh90rus;56;55;18.02.2022
+56;Shcoda;Oktavia;Red;True;uy765ef48rus;57;56;18.02.2022
+57;Fiat;342;Blue;True;i876hf77rus;3;57;18.02.2022
+58;GAZ;54;White;True;r546dc48rus;6;58;18.02.2022
+59;VolksWagen;Passat;Gray;False;y647hj68rus;59;59;18.02.2022

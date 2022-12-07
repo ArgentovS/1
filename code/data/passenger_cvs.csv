@@ -1,0 +1,11 @@
+passenger_id;is_anonymous ;name_passenger;age;home_address_id;is_male;time_creat
+;0;Adeng Kris;21;2;1;18.02.2022
+;1;;;;;18.02.2022
+;0;Boris;45;5;1;18.02.2022
+;0;Klar;36;1;0;18.02.2022
+;0;Miki;24;3;0;18.02.2022
+;0;Ouen;18;3;1;18.02.2022
+;0;Yang;54;4;1;18.02.2022
+;0;Wrongly;63;5;1;18.02.2022
+;0;Zet Zog;36;7;0;18.02.2022
+;;;;;;
